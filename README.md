@@ -3,6 +3,6 @@
 
 ![Music Player](GIF.gif)
   
-![Identidade Visual](IV.png)
+  <img src="IV.png" width="700">
 
 </div>
